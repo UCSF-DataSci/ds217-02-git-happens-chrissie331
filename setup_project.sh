@@ -18,6 +18,13 @@ Sara 24, 80, Organic Chemistry
 Will 26, 89, Social Studies 
 EOF
 
+cat > src/data_analysis.py << 'EOF'
+EOF
+echo "Data analysis script placeholder"
+
+cat > src/data_analysis_functions.py << 'EOF'
+EOF
+echo "Data analysis functions script placeholder"
 
 
 
