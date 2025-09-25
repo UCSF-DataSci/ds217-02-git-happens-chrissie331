@@ -1,8 +1,8 @@
-Liz 23, 50, Math 
-Emma 23, 100, Art 
-Rebekah 22, 90, History 
-Chrissie 23, 95, Biology 
-Debbie 21, 88, Physics 
-Melody 25, 79, English 
-Sara 24, 80, Organic Chemistry 
-Will 26, 89, Social Studies 
+"Name" : "Liz", "Age" : 23, "Grade" : 50, "Subject" : "Math"
+"Name" : "Emma", "Age" : 23, "Grade" : 100, "Subject" : "Art"
+"Name" : "Rebekah", "Age" : 22, "Grade" : 90, "Subject" : "History"
+"Name" : "Chrissie", "Age" : 23, "Grade" : 95, "Subject" : "Biology"
+"Name" : "Debbie", "Age" : 21, "Grade" : 88, "Subject" : "Physics"
+"Name" : "Melody", "Age" : 25, "Grade" : 79, "Subject" : "English"
+"Name" : "Sara", "Age" : 24, "Grade" : 80, "Subject" : "Organic Chemistry"
+"Name" : "Will", "Age" : 26, "Grade" : 89, "Subject" : "Social Studies"
