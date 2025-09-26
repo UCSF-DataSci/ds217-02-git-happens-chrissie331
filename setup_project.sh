@@ -8,6 +8,7 @@ touch requirements.txt
 echo "files created"
 
 cat > data/student.csv << 'EOF'
+"Name" "Age" "Grade" "Subject"
 "Name" : "Liz", "Age" : 23, "Grade" : 50, "Subject" : "Math"
 "Name" : "Emma", "Age" : 23, "Grade" : 100, "Subject" : "Art"
 "Name" : "Rebekah", "Age" : 22, "Grade" : 90, "Subject" : "History"
