@@ -13,8 +13,8 @@ DS217-02-Git-Happens/ |----README.MD---|----.gitignore----|---requirements.txt--
 
 ## Usage
 1. Run ./setup_project.sh to create project structure
-2. Execute python 'src/data_analysis.py' for basic analysis 
-3. Run python 'src/data_analysis_functions.py' for advanced analysis and to demonstrate modular design 
+2. Execute python `src/data_analysis.py` for basic analysis 
+3. Run python `src/data_analysis_functions.py` for advanced analysis and to demonstrate modular design 
 
 ## Git Workflow 
 | Branch | Purpose | Status |
