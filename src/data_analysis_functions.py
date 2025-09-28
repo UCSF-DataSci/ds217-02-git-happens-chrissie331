@@ -8,7 +8,7 @@ def load_data(filename = 'data/student.csv'):
 def load_csv(filename = 'data/student.csv'):
     lines = load_data(filename)
     students = []
-    for line in lines [1:]:
+    for line in lines:
         fields = line.strip().split(',')
         name = fields[0]
         age = int(fields[1])
@@ -55,7 +55,7 @@ def analyze_grade_distribution(grades):
             grade_distribution['C'] += 1
         elif grade >= 60:
             grade_distribution['D'] += 1
-        else:
+        else: 
             grade_distribution['F'] += 1
     
     return grade_distribution
