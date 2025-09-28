@@ -1,0 +1,21 @@
+
+Total students = 8
+Average grade =  83.9
+Number of math students = 1
+Highest Grade: 100
+Lowest Grade: 50
+Number of Students per Subject:
+  Math: 1
+  Art: 1
+  History: 1
+  Biology: 1
+  Physics: 1
+  English: 1
+  Organic Chemistry: 1
+  Social Studies: 1
+Grade Distribution:
+  A: 37.5%
+  B: 37.5%
+  C: 12.5%
+  D: 0.0%
+  F: 12.5%
