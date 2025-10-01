@@ -8,7 +8,7 @@ touch requirements.txt
 echo "files created"
 
 cat > data/student.csv << 'EOF'
-Name,Age,Grade,Subject
+name,age,grade,subject
 Liz,23,50,Math
 Emma,23,100,Art
 Rebekah,22,90,History

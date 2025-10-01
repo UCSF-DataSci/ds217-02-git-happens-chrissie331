@@ -33,6 +33,7 @@ def generate_report(students):
     total_students = len(students)
 
     report = f"""
+Analysis Report
 Total students = {total_students}
 Average grade = {average_grade: .1f}
 Number of math students = {math_students}
