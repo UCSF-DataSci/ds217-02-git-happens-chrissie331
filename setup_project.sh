@@ -9,7 +9,7 @@ echo "files created"
 
 cat > data/student.csv << 'EOF'
 name,age,grade,subject
-Liz,23,50,Math
+Alice,23,50,Math
 Emma,23,100,Art
 Rebekah,22,90,History
 Chrissie,23,95,Biology
