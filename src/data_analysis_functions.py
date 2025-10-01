@@ -1,11 +1,11 @@
 # Load the CSV file using generic loader
-def load_data(filename = 'data/student.csv'):
+def load_data(filename = 'data/students.csv'):
     with open(filename, 'r') as file:
         lines = file.readlines() [1:]
     return lines 
 
 # Load CSV data using same technique as basic script
-def load_csv(filename = 'data/student.csv'):
+def load_csv(filename = 'data/students.csv'):
     lines = load_data(filename)
     students = []
     for line in lines:
@@ -78,7 +78,7 @@ def save_results(results, filename = 'output/analysis_report.txt'):
     print(f"Results appended to {filename}")
 
 def main():
-    input_file = 'data/student.csv'
+    input_file = 'data/students.csv'
     output_file = 'output/analysis_report.txt'
     students = load_csv(input_file)
     results = analyze_data(students)

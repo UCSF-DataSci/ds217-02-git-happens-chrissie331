@@ -1,5 +1,5 @@
 # Read CSV file line by line 
-def load_students(filename = 'data/student.csv'):
+def load_students(filename = 'data/students.csv'):
     with open(filename, 'r') as file:
         lines = file.readlines() [1:]
     students = []
